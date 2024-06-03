@@ -1,7 +1,7 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 60px height='60px'> </h1>
 <p align='center'>
-
+<hr>
 <div size='100px' padding="10px"> Hi! My name is Himanshu Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br>
@@ -11,11 +11,6 @@
 <div align="center">
 <img width="60%" height = "400px" src="https://images.unsplash.com/photo-1521185496955-15097b20c5fe?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cover" />
 </div>
-
-<p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/himanshusingh9793.https://github.com/himanshusingh9793)
-
-</p>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
