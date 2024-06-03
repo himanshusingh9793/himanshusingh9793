@@ -1,14 +1,15 @@
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 60px height='60px'> </h1>
+<p align='center'>
+
 <div align="center">
 <img width="100%" height = "600px" src="https://images.unsplash.com/photo-1521185496955-15097b20c5fe?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/himanshusingh9793.https://github.com/himanshusingh9793)
 
 </p>
-<div size='20px'> Hi! My name is Himanshu Singh. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='30px'> Hi! My name is Himanshu Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
