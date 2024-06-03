@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1YahLZke7R-DT1YASzNUKJ&ust=1704915785906000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMigl7CI0YMDFQAAAAAdAAAAABAE" alt="cover" />
+<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1521185496955-15097b20c5fe?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
