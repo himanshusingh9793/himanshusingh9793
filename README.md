@@ -19,7 +19,7 @@
 ⚡ In my free time, I love to watch tech videos. 
 
 - 👯 I’m looking to collaborate on projects.
--  connect with me:[![Linkedin Badge](https://img.shields.io/badge/-Rishu-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/rishu-maddheshiya-956b60228)  
+-  connect with me:[![Linkedin Badge](https://www.linkedin.com/in/himanshu-singh-105094230/) 
 </h7>
 <hr>
 <br>
