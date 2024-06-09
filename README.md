@@ -6,7 +6,7 @@
 <hr>
 <div> 
   
-<img align="left" width="50%" height = "300px" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=626&ext=jpg&ga=GA1.1.925796615.1717082613&semt=ais_user" alt="cover" />
+<img align="left" width="55%" height = "400px" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=626&ext=jpg&ga=GA1.1.925796615.1717082613&semt=ais_user" alt="cover" />
 
 </div>
 <h2   > About Me : </h2>
