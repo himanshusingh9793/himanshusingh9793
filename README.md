@@ -11,7 +11,7 @@
 </div>
 <h2   > About Me : </h2>
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
+<br>
 <h3>I am  a future  Software Engineer :man_technologist:</h3>
 <h7 align="left">
  🌱 Exploring Data Science.
@@ -23,7 +23,7 @@
 </h7>
 <hr>
 <br>
-<br><br>
+<br><br><hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
